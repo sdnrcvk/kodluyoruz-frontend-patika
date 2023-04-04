@@ -1,0 +1,62 @@
+.nav{
+    width:100%;
+    background-color: rgb(223, 221, 221);
+    float: right;
+}
+
+.menu{
+    margin: 10px auto;
+    width: 600px;
+}
+
+.menu li{
+    float: left;
+    list-style-type: none;
+    margin: 0px 20px 0px 20px;
+    padding: 10px;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menu li:hover{
+    background-color: aliceblue;
+}
+
+.menu li a{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+.hakkimizda{
+    margin: 100px auto;
+    font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.urunler{
+    margin: 100px auto;
+    font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.urunler li{
+    float: left;
+    list-style-type: none;
+    margin: 0px 20px 0px 20px;
+    padding: 10px;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.kahve-cesit li{
+    margin-bottom: 180px;
+}
+
+.kahve-cesit li img {
+    float: left;
+    margin-right: 20px;
+
+}
