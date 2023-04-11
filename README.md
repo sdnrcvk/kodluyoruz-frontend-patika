@@ -26,3 +26,8 @@
 ![image](https://user-images.githubusercontent.com/58807892/229939705-b8da0294-aa7b-459f-bf89-b34ef926d2f7.png)
 ![image](https://user-images.githubusercontent.com/58807892/229939749-1a72a17b-7652-4471-ba7d-e9292aafc0a8.png)
 ![image](https://user-images.githubusercontent.com/58807892/229939849-97f70286-62a4-44d9-99dc-f8fd47d5d787.png)
+
+### CSS 2.Ödev
+
+#
+![image](https://user-images.githubusercontent.com/58807892/231259988-4214c6f2-cc56-4081-8a2e-a5ee7946b9b9.png)
