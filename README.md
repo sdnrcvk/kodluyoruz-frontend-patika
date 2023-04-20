@@ -1,5 +1,3 @@
-## My first website
-
 ### HTML 1.Ödev
 ![image](https://user-images.githubusercontent.com/58807892/229122637-9bbb5976-1384-4a57-97ce-bb6f601788a7.png)
 
@@ -32,9 +30,15 @@
 #
 ![image](https://user-images.githubusercontent.com/58807892/231259988-4214c6f2-cc56-4081-8a2e-a5ee7946b9b9.png)
 
+### Bootstrap 1.Ödev
+
+#
+![image](https://user-images.githubusercontent.com/58807892/233460705-b9cf464d-d626-4420-bc4b-a056b3390336.png)
+![image](https://user-images.githubusercontent.com/58807892/233460813-b2748388-4171-4f51-ae40-22312141a049.png)
+![image](https://user-images.githubusercontent.com/58807892/233460876-92c84650-f26f-482b-baa9-4b7c1a0bcdfa.png)
+
 ### Bootstrap Medium Clone Çalışması
 
 #
-
 ![image](https://user-images.githubusercontent.com/58807892/233376940-051706bf-f4f8-4f11-adeb-b835a4f31bfd.png)
 ![image](https://user-images.githubusercontent.com/58807892/233377621-d5a4e893-45b6-433a-89cc-3792a545ffdf.png)
