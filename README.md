@@ -38,3 +38,10 @@
 
 ![image](https://user-images.githubusercontent.com/58807892/233376940-051706bf-f4f8-4f11-adeb-b835a4f31bfd.png)
 ![image](https://user-images.githubusercontent.com/58807892/233377621-d5a4e893-45b6-433a-89cc-3792a545ffdf.png)
+
+### Bootstrap İnstagram Clone Çalışması
+
+#
+
+![image](https://github.com/sdnrcvk/kodluyoruz-frontend-patika/assets/58807892/0e553fa1-7bd2-43a3-ba27-b4080a629b63)
+![image](https://github.com/sdnrcvk/kodluyoruz-frontend-patika/assets/58807892/baeb202e-b754-434c-9ca7-5cb8428743a0)
